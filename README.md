@@ -6,3 +6,5 @@ This project will start my journey in the exciting world of GIT.This will help m
 THis is a new journey
 
 This is 2nd line
+
+This is the 3rd line through command prompt (  06 April 2020 )
